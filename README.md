@@ -74,8 +74,8 @@ hobbies: ["Gaming", "Cinema", "Gym", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiberiusloc&theme=gruvbox_light&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberiusloc&theme=gruvbox_light&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiberiusloc&theme=transparent&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberiusloc&theme=transparent&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/Tiberiusloc/Tiberiusloc/blob/output/github-contribution-grid-snake.svg)
