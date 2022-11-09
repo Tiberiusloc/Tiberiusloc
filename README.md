@@ -6,7 +6,7 @@
   Let's Connect!💬
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Tiberiusloc&color=grey&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Tiberiusloc&color=blue&style=for-the-badge)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tiberiuslockett/">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/rX0VO4YJcrjqw/giphy.webp">
+  <img src= "https://media2.giphy.com/media/p3n74HP7NfrHO/giphy.gif?cid=ecf05e471rrh9hpgt6vx9e4hfggocd7dil3vi3mdtimb0udz&rid=giphy.gif&ct=g">
 </p>
 
 ---
