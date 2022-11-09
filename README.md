@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2">
+  <img src= "https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2](https://media3.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47eepvg1jq4ign6acnow59ufj36bx79sbv114484a7&rid=giphy.gif&ct=g">
 </p>
 
 ---
