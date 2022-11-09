@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2">
 </p>
 
 ---
@@ -76,7 +76,6 @@ hobbies: ["Gaming", "Cinema", "Gym", "Art", "Comedy"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberiusloc&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/Tiberiusloc/tiberiusloc/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
