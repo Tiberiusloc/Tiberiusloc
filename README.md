@@ -6,7 +6,6 @@
   Let's Connect!💬
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Tiberiusloc&color=blue&style=for-the-badge)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tiberiuslockett/">
