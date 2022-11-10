@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect!💬
+  LinkedIn
 </h1>
 
 
